@@ -1,0 +1,178 @@
+{
+    "exercises": [
+        {
+            "name": "Push-up",
+            "body_parts": [
+                "Chest",
+                "Arms",
+                "Shoulders"
+            ],
+            "equipment": "None",
+            "difficulty": "Beginner",
+            "instructions": "Start in a plank position, hands shoulder-width apart, elbows close to the body. Lower your body until your chest almost touches the floor, then push yourself back to the start position.",
+            "tags": [
+                "Upper Body",
+                "Bodyweight",
+                "Strength"
+            ],
+            "image_url": "https://example.com/push-up.jpg",
+            "video_url": "https://example.com/push-up.mp4"
+        },
+        {
+            "name": "Squat",
+            "body_parts": [
+                "Legs",
+                "Glutes"
+            ],
+            "equipment": "None",
+            "difficulty": "Beginner",
+            "instructions": "Stand with your feet shoulder-width apart. Bend your knees and lower your body as if sitting in a chair. Keep your back straight and chest up. Return to the starting position.",
+            "tags": [
+                "Lower Body",
+                "Bodyweight",
+                "Strength"
+            ],
+            "image_url": "https://example.com/squat.jpg",
+            "video_url": "https://example.com/squat.mp4"
+        },
+        {
+            "name": "Deadlift",
+            "body_parts": [
+                "Back",
+                "Legs",
+                "Glutes"
+            ],
+            "equipment": "Barbell",
+            "difficulty": "Intermediate",
+            "instructions": "Stand with your feet hip-width apart, grip the barbell with both hands. With your back straight, hinge at the hips and lift the barbell while keeping it close to your body.",
+            "tags": [
+                "Full Body",
+                "Strength",
+                "Barbell"
+            ],
+            "image_url": "https://example.com/deadlift.jpg",
+            "video_url": "https://example.com/deadlift.mp4"
+        },
+        {
+            "name": "Plank",
+            "body_parts": [
+                "Core",
+                "Shoulders"
+            ],
+            "equipment": "None",
+            "difficulty": "Beginner",
+            "instructions": "Start in a push-up position but with your forearms on the ground. Keep your body in a straight line from head to heels and hold the position.",
+            "tags": [
+                "Core",
+                "Bodyweight",
+                "Strength"
+            ],
+            "image_url": "https://example.com/plank.jpg",
+            "video_url": "https://example.com/plank.mp4"
+        },
+        {
+            "name": "Bicep Curl",
+            "body_parts": [
+                "Arms"
+            ],
+            "equipment": "Dumbbells",
+            "difficulty": "Beginner",
+            "instructions": "Hold a dumbbell in each hand with palms facing forward. Curl the weights toward your shoulders while keeping your elbows close to your body. Lower back to the starting position.",
+            "tags": [
+                "Upper Body",
+                "Arms",
+                "Dumbbells"
+            ],
+            "image_url": "https://example.com/bicep-curl.jpg",
+            "video_url": "https://example.com/bicep-curl.mp4"
+        },
+        {
+            "name": "Lunges",
+            "body_parts": [
+                "Legs",
+                "Glutes"
+            ],
+            "equipment": "None",
+            "difficulty": "Beginner",
+            "instructions": "Step forward with one leg and lower your body until both knees are at 90-degree angles. Push back to the starting position and repeat with the other leg.",
+            "tags": [
+                "Lower Body",
+                "Bodyweight",
+                "Strength"
+            ],
+            "image_url": "https://example.com/lunge.jpg",
+            "video_url": "https://example.com/lunge.mp4"
+        },
+        {
+            "name": "Pull-up",
+            "body_parts": [
+                "Back",
+                "Arms"
+            ],
+            "equipment": "Pull-up Bar",
+            "difficulty": "Intermediate",
+            "instructions": "Grab the pull-up bar with your palms facing forward and hands slightly wider than shoulder-width apart. Pull your chin above the bar, then lower back down.",
+            "tags": [
+                "Upper Body",
+                "Pull",
+                "Strength"
+            ],
+            "image_url": "https://example.com/pull-up.jpg",
+            "video_url": "https://example.com/pull-up.mp4"
+        },
+        {
+            "name": "Dumbbell Bench Press",
+            "body_parts": [
+                "Chest",
+                "Arms",
+                "Shoulders"
+            ],
+            "equipment": "Dumbbells, Bench",
+            "difficulty": "Intermediate",
+            "instructions": "Lie on a bench with a dumbbell in each hand. Lower the dumbbells to chest level, then press them back up to the starting position.",
+            "tags": [
+                "Upper Body",
+                "Chest",
+                "Strength",
+                "Dumbbells"
+            ],
+            "image_url": "https://example.com/bench-press.jpg",
+            "video_url": "https://example.com/bench-press.mp4"
+        },
+        {
+            "name": "Mountain Climbers",
+            "body_parts": [
+                "Core",
+                "Arms",
+                "Legs"
+            ],
+            "equipment": "None",
+            "difficulty": "Intermediate",
+            "instructions": "Start in a push-up position. Drive one knee towards your chest and then quickly switch legs, as if running in place while maintaining a plank position.",
+            "tags": [
+                "Full Body",
+                "Cardio",
+                "Bodyweight"
+            ],
+            "image_url": "https://example.com/mountain-climber.jpg",
+            "video_url": "https://example.com/mountain-climber.mp4"
+        },
+        {
+            "name": "Russian Twist",
+            "body_parts": [
+                "Core",
+                "Obliques"
+            ],
+            "equipment": "None",
+            "difficulty": "Intermediate",
+            "instructions": "Sit on the floor with knees bent and feet flat. Lean back slightly and twist your torso from side to side while keeping your arms extended in front of you.",
+            "tags": [
+                "Core",
+                "Bodyweight",
+                "Strength"
+            ],
+            "image_url": "https://example.com/russian-twist.jpg",
+            "video_url": "https://example.com/russian-twist.mp4"
+        }
+    ]
+}
